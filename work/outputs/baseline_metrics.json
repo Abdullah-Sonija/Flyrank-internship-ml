@@ -1,0 +1,8 @@
+{
+  "base_rate": 0.5420666666666667,
+  "precision_at_10": 0.6,
+  "precision_at_20": 0.45,
+  "precision_at_50": 0.38,
+  "precision_at_100": 0.36,
+  "total_flagged_eligible": 7664
+}
